@@ -1,0 +1,29 @@
+{
+  "name": "mongoose-uploader-upyun",
+  "version": "0.0.2",
+  "description": "mongoose uploader for Upyun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkaiyulw/mongoose-uploader-upyun.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangkaiyulw/mongoose-uploader-upyun/issues"
+  },
+  "homepage": "https://github.com/zhangkaiyulw/mongoose-uploader-upyun#readme",
+  "dependencies": {
+    "upyun": "^3.3.4"
+  },
+  "peerDependencies": {
+    "mongoose-uploader": ">=0.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-man": "^1.0.2"
+  }
+}
